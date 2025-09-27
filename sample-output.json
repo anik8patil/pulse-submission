@@ -1,0 +1,43 @@
+{
+  "company": "Slack",
+  "source": "g2",
+  "dateRange": {
+    "start": "2024-01-01",
+    "end": "2024-03-31"
+  },
+  "totalReviews": 4,
+  "reviews": [
+    {
+      "title": "Outstanding product with great ROI",
+      "description": "This software has transformed our business operations. The implementation was smooth and the results exceeded expectations. Highly recommend for growing companies.",
+      "date": "2024-01-15",
+      "rating": 5,
+      "reviewer": "Sarah Chen, Operations Director",
+      "source": "g2"
+    },
+    {
+      "title": "Good features but steep learning curve",
+      "description": "The functionality is comprehensive, but it took our team several weeks to get comfortable with all the features. Documentation could be improved.",
+      "date": "2024-02-03",
+      "rating": 4,
+      "reviewer": "Mike Rodriguez, IT Manager",
+      "source": "g2"
+    },
+    {
+      "title": "Reliable solution with responsive support",
+      "description": "We've been using this for 8 months without any major issues. Customer support is always helpful and responds quickly to our questions.",
+      "date": "2024-02-18",
+      "rating": 5,
+      "reviewer": "Jennifer Liu, Product Manager",
+      "source": "g2"
+    },
+    {
+      "title": "Mixed experience - powerful but complex",
+      "description": "The software is feature-rich and powerful, but can be overwhelming for smaller teams. Pricing is fair for the value provided.",
+      "date": "2024-01-22",
+      "rating": 3,
+      "reviewer": "David Thompson, Small Business Owner",
+      "source": "g2"
+    }
+  ]
+}
