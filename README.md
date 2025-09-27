@@ -23,7 +23,7 @@ A professional-grade web application for extracting and analyzing product review
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd review-scraper
+cd pulse-submission
 ```
 
 2. Install dependencies:
