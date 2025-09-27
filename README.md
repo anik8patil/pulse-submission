@@ -235,11 +235,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Built with [Lovable](https://lovable.dev)
 - UI components from [shadcn/ui](https://ui.shadcn.com)
 - Icons from [Lucide](https://lucide.dev)
 - Scraping powered by [Firecrawl](https://firecrawl.dev)
 
 ---
-
-**Note**: This tool is for educational and research purposes. Please ensure compliance with each platform's terms of service and robots.txt when scraping data.
